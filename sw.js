@@ -1,9 +1,9 @@
 // Define the name of the cache and the files to cache
-const CACHE_NAME = 'pwa-cache-v1';
+const CACHE_NAME = 'pwa-cache-v2';
 const urlsToCache = [
     '/',
     'index.html',
-    'page2.html',
+    'page2',
     'style.css',
     'app.js',
     'manifest.json'
